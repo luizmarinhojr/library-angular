@@ -4,7 +4,7 @@ Trabalho acadêmico realizado de acordo com as etapas solicitadas.
 
 ## Como acessar
 
-O website pode ser acessado clicando [AQUI](https://library-react-tau.vercel.app/)
+O website pode ser acessado clicando [AQUI](https://library-angular-three.vercel.app/)
 
 ## Tecnologias utilizadas:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
